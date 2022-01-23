@@ -35,13 +35,13 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-🤝 Connect with me:
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 <a href="https://www.linkedin.com/in/anant-singh-raghuvanshi-0713b3179/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Anant Singh Raghuvanshi | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/AnantSinghRagh1" title="Image from freepnglogos.com" ><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="twitter logo vector png clipart" width="21px"></a>
 <a href="https://medium.com/@anantsinghraghuvanshi1"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Anant Singh Raghuvanshi | Medium" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
   
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=anantraghuvanshi)](https://github.com/anantraghuvanshi/github-readme-stats)
   
