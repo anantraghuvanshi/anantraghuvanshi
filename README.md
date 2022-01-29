@@ -7,7 +7,7 @@
 ## 🌱 I'm currently learning
 
 - React 
-- Express.js
+- Redux
 - OAuth 2.0
   
 
