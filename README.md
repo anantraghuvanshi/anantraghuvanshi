@@ -8,7 +8,7 @@
 
 - React 
 - Redux
-- OAuth 2.0
+- A book named "How to stop worrying and start living"
   
 
 ## 💼 Technical Skills
