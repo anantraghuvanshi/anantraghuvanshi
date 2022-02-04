@@ -14,6 +14,8 @@
 ## 🌱 What's on my mind
 
 - Learn React Native 
+- Learn Java(backend)
+- Learn about Cloud Native Technology
 
 
   
