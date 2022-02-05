@@ -8,7 +8,6 @@
 
 - React 
 - Redux
-- A book named "How to stop worrying and start living"
 
 
 ## 🌱 What's on my mind
