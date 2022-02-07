@@ -7,7 +7,7 @@
 ## 🌱 I'm currently learning
 
 - React 
-- Redux
+
 
 
 ## 🌱 What's on my mind
