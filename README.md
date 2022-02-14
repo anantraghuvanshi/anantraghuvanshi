@@ -16,7 +16,7 @@
 
 - Learn React Native 
 - Learn Java(backend)
-- Learn about Cloud Native Technology
+- Learn about Devops
 
 
   
