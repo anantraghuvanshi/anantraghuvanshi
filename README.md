@@ -15,7 +15,7 @@
 
 - Learn React Native 
 - Learn Java(backend)
-- Learn about Devops
+- Learn about Devops(Devops Tech)
 
 
   
