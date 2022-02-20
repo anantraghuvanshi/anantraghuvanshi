@@ -7,7 +7,8 @@
 ## 🌱 I'm currently learning
 
 
-- Redux(Advance React)
+- Redux
+- Advance React
 
 
 
