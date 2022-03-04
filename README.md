@@ -8,7 +8,6 @@
 
 
 - Redux
-- Advance React
 
 
 
