@@ -8,6 +8,8 @@
 
 
 - Redux
+- Advance React
+- Devops
 
 
 
@@ -16,7 +18,6 @@
 
 - Learn React Native 
 - Learn Java(backend)
-- Learn Devops Tech
 
 
   
