@@ -9,7 +9,7 @@
 
 - Redux
 - Advance React
-- Devops
+- Devops Tech
 
 
 
