@@ -17,7 +17,7 @@
 ## 🌱 What's on my mind
 
 - Learn React Native 
-- Learn Java(backend)
+- Learn Java(Primarliry backend)
 
 
   
