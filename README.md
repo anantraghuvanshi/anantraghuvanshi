@@ -6,9 +6,7 @@
 
 ## 🌱 I'm currently learning
 
-
-- Redux
-- Advance react
+- Building  mini projects using react(latest one was weather app)
 - Devops Tech
 
 
