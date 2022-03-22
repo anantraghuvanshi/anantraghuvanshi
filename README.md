@@ -6,7 +6,7 @@
 
 ## 🌱 I'm currently learning
 
-- Building  mini projects using react(latest one was weather app)
+- Building  mini projects using react(latest one is chat app using socket.io)
 - Devops Tech
 
 
