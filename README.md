@@ -18,6 +18,7 @@
 - Learn Java(backend)
 - Microservices 
 - Unit Testing
+- AWS
 
 
   
