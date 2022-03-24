@@ -16,7 +16,8 @@
 
 - Learn React Native 
 - Learn Java(backend)
-- Microservices and Unit Testing
+- Microservices 
+- Unit Testing
 
 
   
