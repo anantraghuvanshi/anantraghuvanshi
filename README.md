@@ -20,6 +20,7 @@
 - Unit Testing
 - AWS
 - System Design
+- Functional Programming
 
 
   
