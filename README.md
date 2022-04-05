@@ -15,7 +15,6 @@
 
 ## 🌱 What's on my mind
 
-- Learn React Native 
 - Learn Java(backend)
 - Microservices 
 - Unit Testing
