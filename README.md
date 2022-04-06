@@ -6,7 +6,7 @@
 
 ## 🌱 I'm currently learning
 
-- Building  mini projects using react(latest one is chat app using socket.io)
+- Building  mini projects using react.
 - Creating my portfolio website(using react)
 - Devops Tech(Kubernetes, Jenkins, Docker)
 
