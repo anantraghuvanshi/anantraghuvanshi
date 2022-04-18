@@ -7,7 +7,7 @@
 ## 🌱 I'm currently learning
 
 - Building  mini projects using react.
-- Creating my portfolio website
+- Creating my portfolio website(using react)
 - Devops Tech(Kubernetes, Jenkins, Docker)
 
 
