@@ -60,7 +60,7 @@
 </br>
 
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=anantraghuvansh)](https://github.com/anantraghuvanshi/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=anantraghuvanshi)](https://github.com/anantraghuvanshi/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantraghuvanshi&layout=compact)](https://github.com/anantraghuvanshi)
   
