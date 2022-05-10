@@ -62,7 +62,7 @@
   
   ![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantraghuvanshi&show_icons=true&theme=radical)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantraghuvanshi&layout=compact)](https://github.com/anantraghuvanshi)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantraghuvansh&layout=compact)](https://github.com/anantraghuvanshi)
   
   
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=anantraghuvanshi.anantraghuvanshi)](https://github.com/anantraghuvanshi)
