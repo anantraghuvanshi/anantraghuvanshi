@@ -64,7 +64,6 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantraghuvanshi&layout=compact)](https://github.com/anantraghuvanshi)
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anantraghuvanshi)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=anantraghuvanshi.anantraghuvanshi)](https://github.com/anantraghuvanshi)
 
