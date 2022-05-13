@@ -64,6 +64,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantraghuvanshi&layout=compact)](https://github.com/anantraghuvanshi)
   
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anantraghuvanshi&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=anantraghuvanshi.anantraghuvanshi)](https://github.com/anantraghuvanshi)
 
