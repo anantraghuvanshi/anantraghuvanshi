@@ -8,7 +8,7 @@
 
 - Building  mini projects using react.
 - Creating my portfolio website
-- Devops Tech(Kubernetes, Jenkins, Docker)
+- Devops (Kubernetes, Jenkins, Docker)
 - Learning about web3
 
 
