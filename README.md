@@ -8,7 +8,7 @@
 
 - Building  mini projects using react.
 - Devops (Kubernetes, Jenkins, Docker)
-- Learning about web3(Solidity)
+- Learning about web3
 
 
 
