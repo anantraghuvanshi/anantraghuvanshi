@@ -17,7 +17,7 @@
 
 - Learn Java(backend)
 - Microservices 
-- Unit Testing(Jest)
+- Unit Testing
 - AWS
 - System Design
 - Functional Programming
