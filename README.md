@@ -9,13 +9,13 @@
 - Building  mini projects using react.
 - Devops (Kubernetes, Jenkins, Docker)
 - Learning about web3
+- Java
 
 
 
 
 ## 🌱 What's on my mind
 
-- Learn Java(backend)
 - Microservices 
 - Unit Testing(Jest)
 - AWS
