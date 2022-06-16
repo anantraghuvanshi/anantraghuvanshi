@@ -9,7 +9,8 @@
 - Building  mini projects using react.
 - Devops (Kubernetes, Jenkins, Docker)
 - Learning about web3
-- Java
+- Java(Full Stack)
+- Data Structures and Algorithm
 
 
 
