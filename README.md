@@ -59,7 +59,7 @@
 <a href="https://medium.com/@anantsinghraghuvanshi1"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Anant Singh Raghuvanshi | Medium" width="21px"/></a>
 </br>
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anantraghuvanshi?cardType=level-alternate&theme=dracula)](https://git.io/awesome-stats-card)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantraghuvanshi)](https://github.com/anantraghuvanshi/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantraghuvanshi&layout=compact)](https://github.com/anantraghuvanshi)
   
