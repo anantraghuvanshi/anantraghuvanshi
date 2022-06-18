@@ -59,9 +59,11 @@
 <a href="https://medium.com/@anantsinghraghuvanshi1"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Anant Singh Raghuvanshi | Medium" width="21px"/></a>
 </br>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantraghuvanshi&layout=compact)](https://github.com/anantraghuvanshi)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantraghuvanshi&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantraghuvanshi&layout=compact)](https://github.com/anantraghuvanshi/github-readme-stats)
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anantraghuvanshi&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anantraghuvanshi)](https://github.com/anantraghuvanshi/github-readme-stats)
   
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=anantraghuvanshi.anantraghuvanshi)](https://github.com/anantraghuvanshi)
 
