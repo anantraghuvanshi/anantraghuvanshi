@@ -7,9 +7,7 @@
 ## 🌱 I'm currently learning
 
 - Building  mini projects using react.
-- Devops (Kubernetes, Jenkins, Docker)
-- Learning about web3
-- Java(Full Stack)
+- Java
 - Data Structures and Algorithm
 
 
