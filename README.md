@@ -7,7 +7,7 @@
 ## 🌱 I'm currently learning
 
 - Building  mini projects using react.
-- Java
+- Java(Core Java and JDBC)
 - Data Structures and Algorithm
 
 
