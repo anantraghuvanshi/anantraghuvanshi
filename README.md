@@ -60,7 +60,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantraghuvanshi&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantraghuvanshi&layout=compact)](https://github.com/anantraghuvanshi/github-readme-stats)
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anantraghuvanshi&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantraghuvanshi&show_icons=true&locale=en&layout=compact" alt="anantraghuvanshi" /></p>
+ 
    
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=anantraghuvanshi.anantraghuvanshi)](https://github.com/anantraghuvanshi)
 
