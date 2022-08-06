@@ -8,7 +8,7 @@
 
 - Building  mini projects using react.
 - Java(Core Java and JDBC)
-- Data Structures and Algorithm
+- Data Structures and Algorithm(Java)
 
 
 
