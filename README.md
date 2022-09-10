@@ -7,7 +7,7 @@
 ## 🌱 I'm currently learning
 
 - Building  mini projects using react.
-- Java(Spring core and Spring test)
+- Java(Spring ORM)
 - Data Structures and Algorithm
 
 
