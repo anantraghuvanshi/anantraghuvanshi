@@ -7,7 +7,7 @@ See![](https://github.com/anantraghuvanshi/anantraghuvanshi/blob/a4a677128890bfb
 ## 🌱 I'm currently learning
 
 - Building  mini projects using react.
-- Java(Spring ORM and Spring MVC)
+- Java(Spring MVC)
 - Data Structures and Algorithm
 
 
