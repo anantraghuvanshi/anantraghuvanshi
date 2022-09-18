@@ -1,4 +1,4 @@
-(https://github.com/anantraghuvanshi/anantraghuvanshi/blob/a4a677128890bfb69492be9e925f081fbe1dee52/Blue%20Modern%20Corporate%20Computer%20and%20Technology%20Linkedin%20Banner.gif)
+[](https://github.com/anantraghuvanshi/anantraghuvanshi/blob/a4a677128890bfb69492be9e925f081fbe1dee52/Blue%20Modern%20Corporate%20Computer%20and%20Technology%20Linkedin%20Banner.gif)
 
 - 👋 Hi, I’m @anantraghuvanshi
 - 👀 I’m interested in web development projects in MERN stack.
