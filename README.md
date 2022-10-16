@@ -7,7 +7,7 @@
 ## 🌱 I'm currently learning
 
 - Building  mini projects using react.
-- Java(Spring Boot)
+- Java(Spring Boot and Microservices)
 - Data Structures and Algorithm
 
 
