@@ -14,7 +14,6 @@
 
 ## 🌱 What's on my mind
 
-- Microservices 
 - Unit Testing(Jest)
 - AWS
 - System Design
