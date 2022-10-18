@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @anantraghuvanshi
 - 👀 I’m interested in web development projects in MERN stack.
-- 💞️ I’m looking to collaborate on Node.js, Express.js, React.js, HTML and CSS.
+- 💞️ I’m looking to collaborate on Java, Spring MVC, Spring Boot, Microservices, Node.js, Express.js, React.js, HTML and CSS.
 
 ## 🌱 I'm currently learning
 
