@@ -14,7 +14,7 @@
 
 ## 🌱 What's on my mind
 
-- Unit Testing(Jest)
+- Unit Testing(JUnit)
 - AWS
 - System Design
 - Functional Programming
