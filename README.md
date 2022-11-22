@@ -8,7 +8,7 @@
 
 - Building  mini projects using react.
 - Java(Spring Boot and Microservices)
-- Data Structures and Algorithm
+- Data Structures and Algorithm(Java)
 - Angular
 
 
