@@ -6,9 +6,8 @@
 
 ## 🌱 I'm currently learning
 
-- Building  mini projects using react.
 - Java(Spring Boot and Microservices)
-- Data Structures and Algorithm(Java)
+- Data Structures and Algorithm(using Java)
 - Angular
 
 
