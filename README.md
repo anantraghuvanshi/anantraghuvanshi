@@ -9,6 +9,7 @@
 - Java(Spring Boot and Microservices)
 - Data Structures and Algorithm(using Java)
 - Angular
+- Unit Testing(Jasmine and Karms)
 
 
 
