@@ -7,7 +7,7 @@
 ## 🌱 I'm currently learning
 
 - Java(Spring Boot and Microservices)
-- Data Structures and Algorithm(using Java)
+- Data Structures and Algorithm
 - Angular
 - Unit Testing(Jasmine and Karms)
 
