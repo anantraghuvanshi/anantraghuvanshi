@@ -8,8 +8,7 @@
 
 - Java(Spring Boot and Microservices)
 - Data Structures and Algorithm
-- Angular
-- Unit Testing(Jasmine and Karma)
+- Google Cloud Certification
 
 
 
