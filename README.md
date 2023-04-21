@@ -14,7 +14,7 @@
 
 ## 🌱 What's on my mind
 
-- AWS
+- Terraform
 - System Design
 - Functional Programming
 
