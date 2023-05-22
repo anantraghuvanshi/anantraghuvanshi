@@ -7,7 +7,7 @@
 ## 🌱 I'm currently learning
 
 - Java(Spring Boot and Microservices)
-- Data Structures and Algorithm
+- Data Structures and Algorithm(Java)
 - Google Cloud Certification
 
 
