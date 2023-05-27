@@ -9,6 +9,7 @@
 - Java(Spring Boot and Microservices)
 - Data Structures and Algorithm(Java)
 - Google Cloud Certification
+- Automation Engineer Certification(DevOps)
 
 
 
