@@ -6,7 +6,7 @@
 
 ## 🌱 I'm currently learning
 
-- Java(Spring Boot and Microservices)
+- Spring Boot and Microservices
 - Data Structures and Algorithm(Java)
 - OpenShift
 
