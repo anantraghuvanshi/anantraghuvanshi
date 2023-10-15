@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anant_codes" target="blank"><img src="https://img.shields.io/twitter/follow/anant_codes?logo=twitter&style=for-the-badge" alt="anant_codes" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes and Data Structures(& Algorithms)**
+- 🌱 I’m currently learning **Docker, Kubernetes and Data Structures**
 
 - 📝 I regularly write articles on [https://anantraghuvanshi.hashnode.dev/](https://anantraghuvanshi.hashnode.dev/)
 
