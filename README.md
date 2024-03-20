@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://anantraghuvanshi.hashnode.dev/](https://anantraghuvanshi.hashnode.dev/)
 
-- 💬 Ask me about **React, Spring Boot**
+- 💬 Ask me about **React and Spring Boot**
 
 - 📫 How to reach me **anantsinghraghuvanshi1@gmail.com**
 
